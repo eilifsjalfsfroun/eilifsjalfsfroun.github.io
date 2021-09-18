@@ -1,12 +1,12 @@
 # Layout settings
 
-animation: "bounceOut"
+animation: "fadeIn"
 
 # Images
 
-logo: "logo.svg"
-hero: "hero-bg.jpg"
-avatar: "travitar.jpg"
+# logo: "logo.svg"
+hero: "esf-bg.jpg"
+avatar: "esf-logo.svg"
 
 # Colors
 
