@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# Artists Theme
 
-You can use the [editor on GitHub](https://github.com/eilifsjalfsfroun/eilifsjalfsfroun.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site is being built on YouTube, one week at a time. See all the videos up to date here: [How to build a professional website from start to finish](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Subscribe to [the channel](https://www.youtube.com/user/DevTipsForDesigners) to follow along as we develop this project step by step from the beginning.
 
-### Markdown
+## How to install/use
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In order to get this super fantastic [Jekyll](http://jekyllrb.com) powered template for Artists follow this simple step:
 
-```markdown
-Syntax highlighted code block
+* If you haven't got ruby installed on your computer, install it.
+* Then run in your terminal `$ gem install jekyll`
+* Move/`cd` to a folder, always in your terminal, in which you want to insert the *Artists-Theme*
+* Run `git clone https://github.com/DevTips/Artists-Theme.git`
+* Then `cd Artists-Theme`
+* `jekyll serve --watch`
+* **DONE**
 
-# Header 1
-## Header 2
-### Header 3
+Isn't it fantastic?
 
-- Bulleted
-- List
+Learn how to [use Jekyll on windows](http://jekyll-windows.juthilo.com/) (if that's your thing :)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Credits
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_Code contributions via pull request:_
+- [Riccardo Pasianotto](http://rkpasia.github.io)
+- [cust0dian](https://github.com/cust0dian)
+- [Dylan Spicker](https://github.com/ZDesign)
+- [arielsafari](https://github.com/arielsafari)
+- [bzerangue](https://github.com/bzerangue)
+- [Brian Guerrero](https://github.com/brian-guerrero)
+- [Vipul Bansal](https://github.com/vipsyvipul)
+- [iiSa3](https://github.com/iiSa3)
+- [Killua13](https://github.com/Killua13)
+- [iMoritz](https://github.com/iMoritz)
+- [jgrimshaw](https://github.com/jgrimshaw)
+- [boodaah](https://github.com/boodaah)
+- [Vadzim](https://github.com/meecrobe)
+- [Eric Ellenbrook](https://github.com/ellenbrook)
+- [rodrigofuentes](https://github.com/rodrigofuentes)
+- [Jonathan](https://github.com/foohyfooh)
+- [George](https://github.com/g3org3)
+- [Anders Thuesen](https://github.com/ande765a)
+- [beRoberto](https://github.com/beRoberto)
+- [Sven Kube](https://github.com/SvenKube)
 
-### Jekyll Themes
+_A big thank you to these creators for contributing sample projects for the "work" section:_
+- [Micael Butial](https://www.behance.net/gallery/14751131/-TYPO-International-Design-Talks)
+- [Petras Nargėla](https://www.behance.net/gallery/16750837/Free-80-Crispy-Icons-in-PSD-AI-SVG-Webfont)
+- [Sergey Valiukh](https://www.behance.net/gallery/13745729/Timeline-Page)
+- [Ayoub Elred](https://www.behance.net/gallery/15812143/Flat-Mobile-UIUX-Concept-download)
+- [Anton Skvortsov](https://www.behance.net/gallery/16483395/City-IN-website-concept)
+- [Nick Zoutendijk](https://www.behance.net/gallery/13870569/Stripes-Co-Free-icon-Set)
+- [Jonathan Quintin](https://www.behance.net/gallery/12748107/Weather-Dashboard-Global-Outlook-UIUX)
+- [Jieyu Xiong](https://www.behance.net/gallery/15063575/Fresh-It-Up-App-Design)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eilifsjalfsfroun/eilifsjalfsfroun.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+![The Design](/assets/img/the_design.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+_Artist Themes in the wild:_
+- [limestudios](http://limestudios.net/)
+
+
+---
+
+
+This is a free Jekyll Theme that is currently being developed in weekly episodes on the [DevTips YouTube channel](http://youtube.com/devtipsfordesigners).
