@@ -7,9 +7,7 @@
 
   .face-img
     border-radius: 50%
-    background-size: cover
-    background-position: center
-    background-image: url(../img/#{$avatar-path})
+    object-fit: cover
     +size(200px)
     +order(3)
 
@@ -48,16 +46,31 @@
     [class^="icon-"]
       margin: 10px 9%
 
+.blurb-and-image
+  display: flex
+  max-width: 1100px
+  margin: 50px auto
 
-
+.blurb-image
+  width: 400px
+  height: 400px
+  padding: 0 20px
+  display: block
+  margin: 0 auto
 
 .blurb
   max-width: 620px
   padding: 0 20px
-  margin: 50px auto
+  margin: 20px auto
   font-size: 24px
   text-align: center
   font-weight: 300
+
+@media screen and (max-width: 1100px)
+  .blurb-and-image
+    display: block
+    width: 100%
+    margin: 50px auto
 
 
 

@@ -4,7 +4,7 @@
 
   <div class="face-lockup">
 
-    <div class="face-img"></div>
+    <img src="../assets/img/{{ site.data.layout.avatar }}" class="face-img"></img>
 
     <div class="icon-pencil">{% include icons/icon-pencil.html %}</div>
     <div class="icon-mouse">{% include icons/icon-mouse.html %}</div>
@@ -13,9 +13,11 @@
 
   </div>
 
-
-  <div class="blurb">
-    {{ site.data.settings.blurb | markdownify }}
+  <div class="blurb-and-image">
+    <img src="../assets/img/{{ site.data.layout.image }}" class="blurb-image"></img>
+    <div class="blurb">
+      {{ site.data.settings.blurb | markdownify }}
+    </div>
   </div>
 
   {% if site.data.settings.skills %}
