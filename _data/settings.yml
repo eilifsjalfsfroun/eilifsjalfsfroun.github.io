@@ -8,9 +8,10 @@ email: eilifsjalfsfrounband@gmail.com
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
-- {name: Contact, url: '#contact'}
+- {name: Tónlist, url: '#music'}
+- {name: Um hljómsveitina, url: '#about-me'}
+- {name: Hlekkir, url: '#contact'}
+- {name: Verkefni, url: '#work'}
 
 #-------------------------------
 # SEO Section
@@ -18,9 +19,11 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: 'Eilíf sjálfsfróun er pönkhljómsveit með innblástur úr raf- og þjóðlagatónlist en henni hefur verið líkt við Hatara og Ljótu hálfvitanna.
+  Hljómsveitin samanstendur af söngvara, trommara, bassaleikara og synth/harmónikkuleikara.
+  Kjarni hljómsveitarinnar liggur í hnyttnum og skemmtilegum en oft á tíðum beittum textum í bland við orkumikla og grípandi sviðsframkomu.
+  Hljómsveitin hafnaði í 2. sæti í Músíktilraunum 2021 ásamt því að söngvari hljómsveitarinnar var valinn söngvari Músíktilrauna sama ár.
+  Hljómsveitin hefur birt tvær sjálfútgefnar plötur ásamt nokkrum smáskífum frá því að hún hóf störf 2019.'
 
 #-------------------------------
 # Google Analytics Section
@@ -38,21 +41,12 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Eilíf sjálfsfróun (e. Eternal Masturbation)** started out as an old-school punk band in the small town of Mosfellsbær in early 2019.
-  Consisting of only a bassist, a drummer and a singer, their musical soundscape was uniquely raw.
-  Recently, the band has developed a more diverse soundscape by incorporating synthesizers and other instruments.
-  All of this and a lively stage presence then blends to form an entertaining, yet provocative display that at its core is still good old-fashioned punk.
+  **Eilíf sjálfsfróun** er pönkhljómsveit með innblástur úr raf- og þjóðlagatónlist en henni hefur verið líkt við Hatara og Ljótu hálfvitanna,
+  hvernig sem má túlka það. Hljómsveitin samanstendur af söngvara, trommara, bassaleikara og synth/harmónikkuleikara.
+  Kjarni hljómsveitarinnar liggur í hnyttnum og skemmtilegum en oft á tíðum beittum textum í bland við orkumikla og grípandi sviðsframkomu.
+  Hljómsveitin hafnaði í **2. sæti í Músíktilraunum 2021** ásamt því að söngvari hljómsveitarinnar var valinn **söngvari Músíktilrauna** sama ár.
+  Hljómsveitin hefur birt tvær sjálfútgefnar plötur ásamt nokkrum smáskífum frá því að hún hóf störf 2019.
 
-
-# skills:
-# - {name: Communication, value: '9'}
-# - {name: Organization, value: '7'}
-# - {name: Learning, value: '10'}
-# - {name: Teaching, value: '6'}
-# - {name: Planning, value: '7'}
-# - {name: Visual Design, value: '5'}
-# - {name: UX Design, value: '8'}
-# - {name: Programming, value: '6'}
 
 #-------------------------------
 # Work Section
@@ -100,11 +94,9 @@ projects:
 # Contact Section
 
 social:
-# - {icon: 'twitter', link: 'http://twitter.com/devtipsshow'}
-# - {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
-# - {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
-- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
-# - {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+- {icon: 'facebook', link: 'https://www.facebook.com/eilifsjalfsfroun'}
+- {icon: 'instagram', link: 'https://www.instagram.com/eilif_sjalfsfroun/'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UChTjreBwa1j5Gz0lwAi_S_A'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
