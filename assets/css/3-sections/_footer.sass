@@ -8,13 +8,17 @@ footer
 
     .content-wrap
       float: left
-      margin-left: 80px
 
       a
         @extend %small-bold
         color: rgba(255,255,255,0.7)
         display: inline-block
-        margin-right: 30px
+        margin-right: 20px
 
         &:hover
           color: rgba(255,255,255,1)
+
+    @media (max-width: 640px)
+      .content-wrap
+        float: none
+        text-align: center
