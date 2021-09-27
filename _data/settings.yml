@@ -11,7 +11,7 @@ menu:
 - {name: Tónlist, url: '#music'}
 - {name: Um hljómsveitina, url: '#about-me'}
 - {name: Hlekkir, url: '#contact'}
-- {name: Verkefni, url: '#work'}
+# - {name: Verkefni, url: '#work'}
 
 #-------------------------------
 # SEO Section
