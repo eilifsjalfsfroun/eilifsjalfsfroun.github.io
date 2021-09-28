@@ -1,0 +1,13 @@
+<section>
+
+  <h3 id="quotes">Umsagnir</h3>
+  <div class="quotes-div">
+    {% for item in site.data.settings.quotes %}
+      <blockquote>
+        <p><q>{{ item.quote }}</q></p>
+        <footer>{{ item.author }}</footer>
+      </blockquote>
+    {% endfor %}
+  </div>
+
+</section>

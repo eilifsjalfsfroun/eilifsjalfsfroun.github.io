@@ -10,6 +10,7 @@ email: eilifsjalfsfrounband@gmail.com
 menu:
 - {name: Tónlist, url: '#music'}
 - {name: Um hljómsveitina, url: '#about-me'}
+- {name: Umsagnir, url: '#quotes'}
 - {name: Hlekkir, url: '#contact'}
 # - {name: Verkefni, url: '#work'}
 
@@ -62,6 +63,14 @@ projects:
 - {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
+#-------------------------------
+# Quotes Section
+
+quotes:
+- {quote: 'Þetta var eitt skemmtilegasta atriði músíktilrauna í ár og ómögulegt annað en að komast í gott skap eftir það.',
+   author: 'Ragnheiður Eiríksdóttir, Morgunblaðið, 2019'}
+- {quote: 'Skemmtilegasta sveit Músíktilrauna, Eilíf sjálfsfróun, undirstrikaði það sæmdarheiti með glans. [...] Úthugsað, þaulæft og metnaðarfullt í hvívetna.',
+   author: 'Arnar Eggert Thoroddsen, Morgunblaðið, 2021'}
 
 
 #-------------------------------
