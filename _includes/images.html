@@ -1,0 +1,10 @@
+<section>
+    <h3 id="images">Myndir</h3>
+    <div class="gallery">
+        <div class="gallery__row">
+            {% for item in site.data.layout.images %}
+                <img src="../assets/img/{{ item.src }}" width="{{ item.width }}" class="gallery__row__image"/>
+            {% endfor %}
+        </div>
+    </div>
+</section>

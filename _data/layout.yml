@@ -8,6 +8,13 @@ animation: "fadeIn"
 hero: "esf-bg.jpg"
 avatar: "esf-logo.svg"
 image: "esf-img.jpg"
+images:
+- {src: 'arni.jpg', width: '19%'}
+- {src: 'mynd1.jpg', width: '44%'}
+- {src: 'halldor.jpg', width: '35%'}
+- {src: 'steini.jpg', width: '35%'}
+- {src: 'mynd2.jpg', width: '44%'}
+- {src: 'david.jpg', width: '19%'}
 
 # Colors
 

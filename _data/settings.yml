@@ -11,6 +11,7 @@ menu:
 - {name: Tónlist, url: '#music'}
 - {name: Um hljómsveitina, url: '#about-me'}
 - {name: Umsagnir, url: '#quotes'}
+- {name: Myndir, url: '#images'}
 - {name: Hlekkir, url: '#contact'}
 # - {name: Verkefni, url: '#work'}
 
@@ -21,7 +22,7 @@ menu:
 
 seo:
   description: 'Eilíf sjálfsfróun er pönkhljómsveit með innblástur úr raf- og þjóðlagatónlist en henni hefur verið líkt við Hatara og Ljótu hálfvitanna.
-  Hljómsveitin samanstendur af söngvara, trommara, bassaleikara og synth/harmónikkuleikara.
+  Hljómsveitin samanstendur af söngvara, trommara, bassaleikara og synth- / harmónikkuleikara.
   Kjarni hljómsveitarinnar liggur í hnyttnum og skemmtilegum en oft á tíðum beittum textum í bland við orkumikla og grípandi sviðsframkomu.
   Hljómsveitin hafnaði í 2. sæti í Músíktilraunum 2021 ásamt því að söngvari hljómsveitarinnar var valinn söngvari Músíktilrauna sama ár.
   Hljómsveitin hefur birt tvær sjálfútgefnar plötur ásamt nokkrum smáskífum frá því að hún hóf störf 2019.'
@@ -43,7 +44,7 @@ seo:
 
 blurb: >
   **Eilíf sjálfsfróun** er pönkhljómsveit með innblástur úr raf- og þjóðlagatónlist en henni hefur verið líkt við Hatara og Ljótu hálfvitanna,
-  hvernig sem má túlka það. Hljómsveitin samanstendur af söngvara, trommara, bassaleikara og synth/harmónikkuleikara.
+  hvernig sem má túlka það. Hljómsveitin samanstendur af söngvara, trommara, bassaleikara og synth- / harmónikkuleikara.
   Kjarni hljómsveitarinnar liggur í hnyttnum og skemmtilegum en oft á tíðum beittum textum í bland við orkumikla og grípandi sviðsframkomu.
   Hljómsveitin hafnaði í **2. sæti í Músíktilraunum 2021** ásamt því að söngvari hljómsveitarinnar var valinn **söngvari Músíktilrauna** sama ár.
   Hljómsveitin hefur birt tvær sjálfútgefnar plötur ásamt nokkrum smáskífum frá því að hún hóf störf 2019.
