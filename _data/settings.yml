@@ -9,8 +9,8 @@ email: eilifsjalfsfrounband@gmail.com
 
 menu:
 - {name: Tónlist, url: '#music'}
-- {name: Um hljómsveitina, url: '#about-me'}
 - {name: Umsagnir, url: '#quotes'}
+- {name: Um hljómsveitina, url: '#about-me'}
 - {name: Myndir, url: '#images'}
 - {name: Hlekkir, url: '#contact'}
 # - {name: Verkefni, url: '#work'}
