@@ -11,6 +11,7 @@ menu:
 - {name: Tónlist, url: '#music'}
 - {name: Umsagnir, url: '#quotes'}
 - {name: Um hljómsveitina, url: '#about-me'}
+- {name: Myndband, url: '#video'}
 - {name: Myndir, url: '#images'}
 - {name: Hlekkir, url: '#contact'}
 # - {name: Verkefni, url: '#work'}
