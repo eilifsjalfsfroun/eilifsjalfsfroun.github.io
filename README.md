@@ -14,6 +14,7 @@ In order to get this super fantastic [Jekyll](http://jekyllrb.com) powered templ
 * Run `git clone https://github.com/DevTips/Artists-Theme.git`
 * Then `cd Artists-Theme`
 * `jekyll serve --watch`
+* Or rather: `jekyll serve --watch --config _config.yml -t`
 * **DONE**
 
 Isn't it fantastic?
